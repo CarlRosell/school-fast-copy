@@ -1,22 +1,22 @@
 export default `
-Mitt förnamn: 
+Mitt förnamn: 
 
 Mitt efternamn: 
 
 Min favoritmat: 
 
-Min favoritfärg: 
+Min favoritfärg: 
 
 Jag gillar att: 
 
 Jag gillar inte: 
 
-Ålder: 
+Ålder: 
 
 Favoritleksak: 
 
-Drömyrke:
+Drömyrke:
 
 I skolan tycker jag om att:
 
-`;
+`.toUpperCase();
